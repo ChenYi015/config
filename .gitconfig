@@ -1,0 +1,5 @@
+[user]
+	email = 408015521@qq.com
+	name = ChenYi
+[credential]
+	helper = cache --timeout=3600
